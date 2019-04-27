@@ -1,0 +1,12 @@
+table, td {
+    border: 5px saddlebrown;
+    border-collapse: collapse;
+}
+
+table { 
+    text-align: left;
+}
+
+td {
+    padding: 15px;
+}
